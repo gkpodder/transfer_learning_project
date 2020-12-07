@@ -7,5 +7,7 @@ Project utilizes pytorch and colab
 
 The program in action:
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/57-4j9aUR1g/0.jpg)](https://www.youtube.com/watch?v=57-4j9aUR1g)
 
-Project is given credit to rslim's pytorch course on udemy for help with the gram matrix and cnn construction 
+
+Credit to rslim's pytorch course on udemy for help with the gram matrix and cnn construction 
