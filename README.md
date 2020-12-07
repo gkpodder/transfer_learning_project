@@ -5,4 +5,7 @@ The purpose of the project is to extract the features from some style image and 
 Project utilizes pytorch and colab 
 
 
+The program in action:
+
+
 Project is given credit to rslim's pytorch course on udemy for help with the gram matrix and cnn construction 
